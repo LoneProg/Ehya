@@ -1,7 +1,7 @@
 <template>
-<header class="m-auto pt-8 items-center justify-center space-between gap-200 flex w-full">
+<header class="m-auto pt-8 items-center justify-between px-32 flex w-full">
     <div>
-        <img src="../assets/Logo.png" alt="Logo" class=" w-1/5">
+        <img src="../assets/Logo.png" alt="Logo" class="size-1/5">
     </div>
     <nav class="flex gap-8 items-center">
         <ul className="flex gap-8">
@@ -23,7 +23,7 @@
 </template>
 
 <script setup>
-   import { ref } from 'vue';
+   
 </script>
 
 <style scoped>
