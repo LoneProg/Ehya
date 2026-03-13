@@ -5,8 +5,10 @@
 <template>
   <div>
     <div className="bg-[#00b8d9] h-200">
+      <!-- navbar -->
       <NavBar />
       <div class="flex justify-between mt-28">
+        <!-- hero -->
         <div class="ml-24">
           <h2 class="font-['DM-Sans'] text-[64px] font-bold text-white">We help you <br> grow your business faster</h2>
           <div>
@@ -21,6 +23,14 @@
         <div>
           <img src="./assets/graph.png" alt="Graph" class="w-full">
         </div>
+      </div>
+      <div class="w-1/2 m-auto flex gap-20 items-center justify-center my-40">
+        <!-- sponors -->
+         <img src="./assets/slack.png" alt="slack" class="size-1/5">
+         <img src="./assets/netflix.png" alt="netflix" class="size-1/5">
+         <img src="./assets/google.png" alt="google" class="size-1/5">
+         <img src="./assets/airbnb.png" alt="airbnb" class="size-1/5">
+         <img src="./assets/uber.png" alt="uber" class="size-1/5">
       </div>
     </div>
   </div>
