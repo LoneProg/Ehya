@@ -58,7 +58,7 @@ Ehya is a frontend web app designed to help businesses grow faster by providing 
 
 ## Credits
 
-- Original design and layout from `githubFrontend-Class/index.html`
+- Original design and layout from [loneprog/Frontend-Class](https://github.com/lonrprog/Frontend-Class.git)
 - Image assets referenced in the original HTML (user must supply these in `src/assets/`)
 - Fonts: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
 
